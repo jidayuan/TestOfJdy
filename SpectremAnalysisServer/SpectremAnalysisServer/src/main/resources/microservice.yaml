@@ -1,0 +1,26 @@
+APPLICATION_ID: springmvctest
+service_description:
+  name: hellowordprovider
+  version: 0.0.1
+  properties:
+    allowCrossApp: false
+cse:
+  service:
+    registry:
+      #address: http://127.0.0.1:30100
+      address: https://cse.cn-north-1.myhuaweicloud.com:443
+      instance:
+        watch: false
+  config:
+    client:
+      serverUri: https://cse.cn-north-1.myhuaweicloud.com:443
+      refreshMode: 1
+      refresh_interval: 5000
+  rest:
+    address: 0.0.0.0:8080
+  credentials:
+    accessKey: PQG5DRYFNQHXQHDYERMB
+    secretKey: 9VSX6ZRpYrl5SP7dYRog7rF3zhwGep6yZlbJleVD
+    akskCustomCipher: default
+    project: cn-north-1
+

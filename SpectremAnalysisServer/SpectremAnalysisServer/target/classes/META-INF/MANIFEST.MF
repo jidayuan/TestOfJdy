@@ -1,0 +1,70 @@
+Manifest-Version: 1.0
+Built-By: jWX539934
+Class-Path: . ./lib/cse-solution-service-engine-2.2.39.jar ./lib/found
+ ation-auth-2.2.39.jar ./lib/foundation-common-0.5.0.B011.jar ./lib/ja
+ ckson-dataformat-xml-2.8.10.jar ./lib/jackson-module-jaxb-annotations
+ -2.8.7.jar ./lib/stax2-api-3.1.4.jar ./lib/woodstox-core-5.0.3.jar ./
+ lib/jackson-databind-2.8.10.jar ./lib/jackson-annotations-2.8.10.jar 
+ ./lib/spring-context-4.3.5.RELEASE.jar ./lib/spring-expression-4.3.5.
+ RELEASE.jar ./lib/log4j-1.2.17.jar ./lib/httpclient-4.5.2.jar ./lib/h
+ ttpcore-4.4.6.jar ./lib/commons-codec-1.10.jar ./lib/javax.ws.rs-api-
+ 2.0.1.jar ./lib/foundation-ssl-0.5.0.B011.jar ./lib/commons-configura
+ tion-1.10.jar ./lib/commons-io-2.4.jar ./lib/foundation-config-0.5.0.
+ B011.jar ./lib/snakeyaml-1.16.jar ./lib/json-lib-2.4-jdk15.jar ./lib/
+ commons-beanutils-1.9.2.jar ./lib/commons-collections-3.2.2.jar ./lib
+ /ezmorph-1.0.6.jar ./lib/netty-codec-4.1.5.Final.jar ./lib/netty-code
+ c-http-4.1.5.Final.jar ./lib/netty-codec-http2-4.1.5.Final.jar ./lib/
+ netty-common-4.1.5.Final.jar ./lib/netty-handler-4.1.5.Final.jar ./li
+ b/netty-buffer-4.1.5.Final.jar ./lib/netty-codec-socks-4.1.5.Final.ja
+ r ./lib/netty-handler-proxy-4.1.5.Final.jar ./lib/netty-resolver-4.1.
+ 5.Final.jar ./lib/netty-transport-4.1.5.Final.jar ./lib/slf4j-log4j12
+ -1.7.7.jar ./lib/foundation-config-cc-2.2.39.jar ./lib/foundation-ver
+ tx-0.5.0.B011.jar ./lib/vertx-core-3.5.0.jar ./lib/netty-resolver-dns
+ -4.1.5.Final.jar ./lib/netty-codec-dns-4.1.5.Final.jar ./lib/vertx-we
+ b-3.5.0.jar ./lib/vertx-auth-common-3.5.0.jar ./lib/vertx-bridge-comm
+ on-3.5.0.jar ./lib/transport-highway-0.5.0.B011.jar ./lib/java-chassi
+ s-core-0.5.0.B011.jar ./lib/service-registry-0.5.0.B011.jar ./lib/swa
+ gger-invocation-core-0.5.0.B011.jar ./lib/brave-4.13.1.jar ./lib/zipk
+ in-2.4.2.jar ./lib/zipkin-reporter-2.2.2.jar ./lib/common-protobuf-0.
+ 5.0.B011.jar ./lib/protostuff-core-1.5.2.jar ./lib/protostuff-api-1.5
+ .2.jar ./lib/protostuff-runtime-1.5.2.jar ./lib/protostuff-collection
+ schema-1.5.2.jar ./lib/jackson-dataformat-protobuf-2.8.10.jar ./lib/p
+ rotoparser-4.0.3.jar ./lib/common-javassist-0.5.0.B011.jar ./lib/java
+ ssist-3.18.1-GA.jar ./lib/foundation-metrics-0.5.0.B011.jar ./lib/ser
+ vo-core-0.10.1.jar ./lib/annotations-2.0.0.jar ./lib/servo-internal-0
+ .10.1.jar ./lib/javax.inject-1.jar ./lib/spring-aspects-4.3.5.RELEASE
+ .jar ./lib/transport-rest-vertx-0.5.0.B011.jar ./lib/transport-rest-c
+ lient-0.5.0.B011.jar ./lib/common-rest-0.5.0.B011.jar ./lib/transport
+ -rest-servlet-0.5.0.B011.jar ./lib/javax.servlet-api-3.1.0.jar ./lib/
+ spring-web-4.3.5.RELEASE.jar ./lib/spring-aop-4.3.5.RELEASE.jar ./lib
+ /provider-springmvc-0.5.0.B011.jar ./lib/provider-rest-common-0.5.0.B
+ 011.jar ./lib/swagger-invocation-springmvc-0.5.0.B011.jar ./lib/sprin
+ g-webmvc-4.3.5.RELEASE.jar ./lib/swagger-generator-springmvc-0.5.0.B0
+ 11.jar ./lib/swagger-generator-core-0.5.0.B011.jar ./lib/swagger-core
+ -1.5.12.jar ./lib/commons-lang3-3.3.2.jar ./lib/jackson-dataformat-ya
+ ml-2.8.10.jar ./lib/swagger-models-1.5.12.jar ./lib/swagger-annotatio
+ ns-1.5.12.jar ./lib/validation-api-1.1.0.Final.jar ./lib/provider-poj
+ o-0.5.0.B011.jar ./lib/provider-jaxrs-0.5.0.B011.jar ./lib/swagger-in
+ vocation-jaxrs-0.5.0.B011.jar ./lib/swagger-generator-jaxrs-0.5.0.B01
+ 1.jar ./lib/handler-flowcontrol-qps-0.5.0.B011.jar ./lib/handler-bizk
+ eeper-0.5.0.B011.jar ./lib/hystrix-core-1.5.10.jar ./lib/HdrHistogram
+ -2.1.9.jar ./lib/handler-loadbalance-0.5.0.B011.jar ./lib/ribbon-2.2.
+ 2.jar ./lib/ribbon-transport-2.2.2.jar ./lib/rxnetty-contexts-0.4.9.j
+ ar ./lib/rxnetty-servo-0.4.9.jar ./lib/rxnetty-0.4.9.jar ./lib/ribbon
+ -loadbalancer-2.2.2.jar ./lib/netflix-statistics-0.1.1.jar ./lib/netf
+ lix-commons-util-0.1.1.jar ./lib/ribbon-core-2.2.2.jar ./lib/archaius
+ -core-0.7.3.jar ./lib/jsr305-3.0.1.jar ./lib/jackson-core-2.8.10.jar 
+ ./lib/rxjava-1.1.6.jar ./lib/commons-lang-2.6.jar ./lib/cse-handler-c
+ loud-extension-2.2.39.jar ./lib/cse-handler-performance-stats-2.2.39.
+ jar ./lib/cse-handler-tcc-2.2.39.jar ./lib/aspectjweaver-1.8.8.jar ./
+ lib/mybatis-3.4.1.jar ./lib/spring-tx-4.3.5.RELEASE.jar ./lib/spring-
+ beans-4.3.5.RELEASE.jar ./lib/spring-core-4.3.5.RELEASE.jar ./lib/com
+ mons-logging-1.2.jar ./lib/mybatis-spring-1.3.0.jar ./lib/bonecp-0.8.
+ 0.RELEASE.jar ./lib/guava-16.0.1.jar ./lib/slf4j-api-1.7.7.jar ./lib/
+ mysql-connector-java-5.1.34_1.jar ./lib/org.apache.felix.ipojo.annota
+ tions-1.12.1.jar ./lib/abstract-jdbc-driver-0.5.jar
+Build-Jdk: 1.8.0_161
+Created-By: Maven Integration for Eclipse
+Main-Class: com.huawei.facedetect.test.applic.TestCseproviderApplicati
+ on
+
